@@ -1,0 +1,3 @@
+import Commands
+
+CheckSpelling.main()
